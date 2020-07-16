@@ -1,0 +1,543 @@
+<resources>
+    <string name="app_name">Galeri Gitar</string>
+    <string name="intro1">
+        "Halo, Selamat Datang di Galeri Gitar!"
+    </string>
+    <string name="intro2">
+        "Aplikasi Galeri Gitar ini menampilkan beberapa gitar yang dimuat dalam jenisnya masing-masing"
+    </string>
+    <string name="intro3">
+        "Agar lebih jelas, mari langsung gunakan Aplikasi ini!"
+    </string>
+    <string name="akustik_gibson_125">
+        "Price	IDR 89.103.278
+Serial number	12619071
+Body Shape	Super Jumbo
+Construction / Acoustic	Full Solid
+Cutaway	no
+Top	Lutz Spruce
+Back / Sides	Quilted Maple
+Neck	Mahogany
+Fretboard	Rosewood
+Fretboard Inlays	Mother-of-pearl Graduated Crowns
+Tuning Machines	Grover Imperials
+Binding	Multi-ply top, single-ply back
+Bridge	Rosewood
+Saddle/Cross piece inlay	Tusq
+Colour / Finish	Autumn Burst
+Finish	High Gloss
+Nut Width	44,5 mm
+Strings	6 string
+Strings thickness ex factory	.012 - .053
+Pickup Details	L.R. Baggs Element Active System
+Pre-amp system	L.R. Baggs VTC
+Controls	Volume- and Tone-Control;
+Including	Hardcase
+Country of Origin	USA
+Serial	12619071"
+    </string>
+    <string name="akustik_taylor_auditorium">
+        "Price	IDR 104.312.120
+The Taylor Custom Grand Auditorium is yet another masterpiece from The Taylor Custom Shop. The top (soundboard) is Elder Adriondrack Spruce, the back and sides are Cocobolo. The neck uses finest Mahogany, and the fret board is Ebony. The Custom Grand Auditorium has a powerful sound with an easy response.
+Serial number	1112123113
+Body Shape	Grand Auditorium
+Construction / Acoustic	Full Solid
+Cutaway	yes
+Top	American Red Spruce
+Back / Sides	Cocobolo
+Neck	Mahogany
+Fretboard	Ebony
+Fretboard Inlays	Koa Series
+Headstock	Cocobolo Overlay
+Tuning Machines	Gotoh 510 antique gold
+Rosette	Cocobolo, Singlering
+Binding	Bloodwood
+Bridge	Ebony
+Saddle/Cross piece inlay	Bone
+Colour / Finish	Natural
+Finish	high gloss (Body), Matt (Neck)
+Nut Width	44,5 mm
+Strings	6 string
+Pickup Details	Taylor New Piezo
+Pre-amp system	Taylor Expression System 2
+Controls	Volume, Bass, Treble
+Premium woods
+Including	Hardcase
+Country of Origin	USA
+Serial	1112123113"
+    </string>
+    <string name="akustik_taylor_brazilian">
+        "Price	IDR 217.351.677
+Serial number	1112136101
+Body Shape	Grand Auditorium
+Construction / Acoustic	Full Solid
+Cutaway	yes
+Top	Adirondack Spruce
+Back / Sides	Brazilian Rosewood
+Neck	Mahogany
+Fretboard	Ebony
+Bridge	Ebony
+Saddle/Cross piece inlay	Bone
+Colour / Finish	Natural
+Finish	High Gloss
+Nut Width	44,5 mm
+Strings	6 string
+Strings thickness ex factory	.013 - .053
+Pickup Details	Taylor New Piezo
+Pre-amp system	Taylor Expression System 2
+Including	Hardcase
+Country of Origin	USA
+Serial	1112136101"
+    </string>
+    <string name="akustik_taylor_gc">
+        "Price	IDR 111.563.593
+Feature1	Custom Shop
+Serial number	1203180096
+Body Shape	Grand Concert
+Construction / Acoustic	Full Solid
+Cutaway	no
+Top	Sinker Redwood
+Back / Sides	Queen's Walnuss
+Neck	Mahogany
+Fretboard	Ebony
+Fretboard Inlays	5-Dot Pattern, Shell, Green Standard Abalone
+Headstock	Ebony Overlay
+Tuning Machines	Slot-Head Nickel w/ Ebony Knobs
+Rosette	SPLIT DIAMOND - ABALONE and KOA
+Binding	Ebony
+Bridge	Ebony
+Saddle/Cross piece inlay	Black Graphite, Micarta saddle
+Colour / Finish	Light Shade
+Finish	Matt
+Scale Length	24,75\" (629 mm)
+Nut Width	44,5 mm
+Strings	6 string
+Strings thickness ex factory	.012 - .053
+Pickup Details	Taylor New Piezo
+Pre-amp system	Taylor Expression System 2
+Controls	Volume, Bass, Treble
+12-fret/ V-Class Bracing
+Including	Hardcase
+Country of Origin	USA
+Serial	1203180096"
+    </string>
+    <string name="akustik_taylor_dreadnought">
+        "Price	IDR 104.312.120
+Taylor Custom
+Since 2012, Taylor has offered its authorised dealers the option to tweak their guitars to perfectly suit the customer without having to order a BTO guitar.
+Starting with the 300 series, every guitar can change to an individual instrument for a reasonable price. The options range from the choice of saddle width, the colour of the instrument or the choice of woods for the tops etc.
+Contact one of our Taylor experts and create your instrument. Taylor has combined some often sought after modifications for you in the Taylor Custom Series.
+Body Shape	Dreadnought
+Construction / Acoustic	Full Solid
+Cutaway	no
+Top	Sitka Spruce
+Back / Sides	Acacia Koa (Boxwood, Tasmanian Blackwood)
+Neck	Mahogany
+Fretboard	Ebony
+Fretboard Inlays	Tropical Vine
+Headstock	Koa Overlay
+Tuning Machines	Gold Taylor Tuners
+Rosette	Abalone
+Binding	Rosewood
+Bridge	Ebony
+Saddle/Cross piece inlay	Bone
+Colour / Finish	Natural
+Finish	high gloss (Body), Matt (Neck)
+Nut Width	44,5 mm
+Strings	6 string
+Pickup Details	Taylor dynamic body and string sensors
+Pre-amp system	Taylor Expression System
+Taylor Custom Shop / Premium woods
+Including	Hardcase
+Country of Origin	USA
+Serial	20090302108"
+    </string>
+    <string name="klasik_hanika_natural">
+        "Price	IDR 44.920.630
+The back and sides are made of selected East Indian rosewood and the top is made of the finest spruce wood. The cedro neck is reinforced with hardwood/mahogany at the core. The asymmetrically weighted, dome-shaped spruce wood top optimizes the efficiency. The Natural Torres has excellent dynamics, a warm, substantial tone as well as selectivity and a good response. This concert guitar meets the highest demands through material, workmanship and sound.
+The openwork rosewood-maple-macassar head and noble design machine heads by Nicoló Alessi underline the high quality standards of the Natural Torres. Our Natural finish ensures the exceptionally good price-performance ratio.
+Serial number	929-19
+Size	4/4
+Construction / Acoustic	Full Solid
+Cutaway	no
+Top	Spruce
+Neck	Cedro/Grenadill
+Back / Sides	Rosewood
+Fretboard	African blackwood
+Tuning Machines	Alessi-Standard
+Rosette	Z3-Grenadill
+Bridge	Rosewood
+Colour / Finish	Natural
+Finish	Matt
+Scale Length	25,59\" (650 mm)
+Nut Width	52,0 mm
+Including	Hardcase
+Country of Origin	Germany
+Serial	929"
+    </string>
+    <string name="klasik_gitar_lakewood">
+        "Price	IDR 44.920.630
+The back and sides are made of selected East Indian rosewood and the top is made of the finest spruce wood. The cedro neck is reinforced with hardwood/mahogany at the core. The asymmetrically weighted, dome-shaped spruce wood top optimizes the efficiency. The Natural Torres has excellent dynamics, a warm, substantial tone as well as selectivity and a good response. This concert guitar meets the highest demands through material, workmanship and sound.
+The openwork rosewood-maple-macassar head and noble design machine heads by Nicoló Alessi underline the high quality standards of the Natural Torres. Our Natural finish ensures the exceptionally good price-performance ratio.
+Serial number	929-19
+Size	4/4
+Construction / Acoustic	Full Solid
+Cutaway	no
+Top	Spruce
+Neck	Cedro/Grenadill
+Back / Sides	Rosewood
+Fretboard	African blackwood
+Tuning Machines	Alessi-Standard
+Rosette	Z3-Grenadill
+Bridge	Rosewood
+Colour / Finish	Natural
+Finish	Matt
+Scale Length	25,59\" (650 mm)
+Nut Width	52,0 mm
+Including	Hardcase
+Country of Origin	Germany
+Serial	929"
+    </string>
+    <string name="klasik_cordoba">
+        "IDR 23.166.211
+The GK Pro is the ultimate nylon string guitar for professional musicians. Completely solid, with European spruce top, cypress back and sides, equipped with a soft cutaway and Fishman PreFix ProBlend preamp. For flamenco players this model has the typical bright and swinging tone. The GK Pro was designed with a slightly thinner body depth, neck and saddle width than a traditional Spanish guitar and is extremely comfortable and easy to play. The neck is designed to have little or no relief and offers low action and flamenco-like humming, and its Spanish heel provides maximum resonance and projection. It comes in a humidified archtop case from Cordoba.
+Serial number	7192504
+Size	4/4
+Construction / Acoustic	Full Solid
+Cutaway	yes
+Top	Spruce
+Neck	Spanish Cedar
+Back / Sides	Cypress
+Fretboard	Ebony
+Tuning Machines	Gold plated
+Bridge	Ebony
+Colour / Finish	Natural
+Finish	High Gloss
+Scale Length	25,59\" (650 mm)
+Nut Width	50,0 mm
+Strings From Manufacturer	Savarez Cristal Corum High Tension 500CJ
+Pickup Details	Fishman Prefix Pro Blend
+Flamenco Model
+Including	Gigbag
+Serial	7192504"
+    </string>
+    <string name="klasik_hanika_pf">
+        "IDR 15.914.737
+Floor and frame made of high-quality East Indian rosewood, top made of high-quality spruce wood. The combination of rosewood, the most universal tonewood for guitars, and spruce wood provides this model with a good attack and rich tone. The sound of this instrument is optimized by the closed porous matt varnished surface
+Serial number	1898-19
+Size	4/4
+Construction / Acoustic	Full Solid
+Cutaway	no
+Top	Spruce
+Neck	Cedro/Grenadill
+Back / Sides	Rosewood
+Fretboard	Ebony
+Tuning Machines	Rubner R2
+Bridge	Rosewood
+Colour / Finish	Natural
+Finish	Matt
+Scale Length	25,59\" (650 mm)
+Nut Width	52,0 mm
+Selected Tonewood
+Including	Gigbag
+Country of Origin	Germany
+Serial	1898 19"
+    </string>
+    <string name="klasik_lamancha">
+        "IDR 14.486.903
+Serial number	Amatista Antiguo
+Size	4/4
+Construction / Acoustic	Full Solid
+Cutaway	no
+Top	Spruce
+Neck	Cedro
+Back / Sides	Indian Rosewood (Madagascar, East Indian, Rio, Santos Rosewood)
+Fretboard	Rosewood
+Bridge	Rosewood
+Colour / Finish	Natural
+Finish	High Gloss
+Scale Length	25,59\" (650 mm)
+Nut Width	52,0 mm
+Serial	Amatista Antiguo"
+    </string>
+    <string name="elektrik_nik_huber_redwood">
+        "Price	IDR 86.937.462
+Nik Huber is a king pin when it comes to high quality custom shop guitars. The Redwood Flat Tigereye Burst is a real masterpiece in terms of workmanship, equipment, aesthetics and, above all, sound.
+Serial number	8 2714
+Colour / Finish	Faded Tigereye Burst
+Technology	Solid Body
+Body Shape	Single Cut
+Strings	6 string
+Neck construction	Set in neck
+Frets	22
+Scale Length	25,5\" (648 mm)
+Body Material	Mahogany
+Top	Curly Redwood
+Neck	Mahogany
+Neck Profile	Dolphin Std.
+Fretboard	Ebony
+Fretboard radius	10\" - 14\" Compound
+Fretboard Inlays	Abalone Side Dots
+Pickup Configuration	H-H (2x Humbucker)
+Neck Pickup	Häussel Vintage Humbucker
+Bridge Pickup	Häussel Classic Humbucker
+Pickup Selector Switch	3 way toggle
+Controls	1x volume, 1x tone
+Bridge / Tremolo	Nick Huber Adjustable Stoptail
+Hardware	Gold
+Including	Hard case and accessories
+Special Features	Push/Pull Pot for Coil Split
+Weight	2,71 kg
+Country of Origin	Germany
+Serial	8 2714"
+    </string>
+    <string name="elektrik_prs_mccarty">
+        "IDR 130.398.171
+PRS Guitars recently managed to purchase a load of Curly Maple Tops from a tree population that bordered an old cemetery in the eastern United States. The oldest tombstones there are from 1884 and the trees were at least as old as the first branches started about 13 meters above the ground. The trees were felled in 2017 and Paul Reed Smith says the tops look like what left the Parsons Street plant in Kalamazoo in 1959.
+Serial number	254580
+Colour / Finish	Dark Cherry Smoked Burst
+Technology	Solid Body
+Body Shape	PRS Shape
+Strings	6 string
+Neck construction	Set in neck
+Frets	22
+Body Material	Mahogany
+Neck	Mahogany
+Neck Profile	Pattern Vintage
+Fretboard	Rosewood
+Fretboard radius	10\"
+Fretboard Inlays	Abalone Birds
+Pickup Configuration	H-H (2x Humbucker)
+Neck Pickup	PRS 58/15 Bass
+Bridge Pickup	PRS 58/15 Treble
+Pickup Selector Switch	3 way toggle
+Controls	2x volume, 2x tone
+Bridge / Tremolo	Tune-O-Matic
+Hardware	Nickel
+Strings thickness ex factory	.010 - .046
+Including	Case and certificate
+Special Features	Limited special model
+Weight	3,58 kg
+Country of Origin	USA
+Serial	254580"
+    </string>
+    <string name="elektik_fender">
+        "IDR 130.398.171
+The most successful Fender Custom Shop products are the instruments from the Time Machine Series. Here you can find replicas of the guitars and basses, that made Fender legendary in the 1950s, 1960s and 1970s. Depending on your taste, the instruments are optically aligned to their various vintage conditions. Relics look as if they had all the rigors of tour life subjected to them for years and accordingly show their many \"scars\". Closet Classics on the other hand represent instruments that have been treated more carefully and their age can be detected only because of paint cracks and minor flaws. NOS (New Old Stock) instruments are - if they were real - the dream of every collector. Like being untouched over the years still in original factory condition, so as new but also old.
+Most Custom Shop instruments are \"team built\", which means that the guitar is built by a small team of 5 specialists. Each of these teams is headed by a masterbuilder, one of those grandmasters of wood who spend the bigger part of their time building so-called \"masterbuilt\" instruments, where the masterbuilder and he alone does all the work from scratch.
+If you cannot find your dream Fender guitar in our range - no problem! Let the Custom Shop build it for you. This does not necessarily need to be more expensive than a regular custom shop instrument but will meet all your individual needs. Talk to us and we'll tell you what is possible…and for which price.
+Serial number	CZ546583
+Colour / Finish	Smoked Nocaster Blonde
+Technology	Solid Body
+Body Shape	Tele Shape
+Strings	6 string
+Neck construction	Bolt on neck
+Frets	21
+Scale Length	25,5\" (648 mm)
+Body Material	Ash
+Neck	One Piece Maple
+Neck Profile	1952 \"U\"
+Fretboard	One Piece Maple
+Fretboard radius	7,25\" - 9,5\" Compound
+Fretboard Inlays	Dot inlays
+Pickup Configuration	S-S (2x Single Coil)
+Neck Pickup	Fender Custom Shop Handwound \"Twisted\" Tele Single-Coil
+Bridge Pickup	Fender Custom Shop Handwound Broadcaster Relic
+Pickup Selector Switch	3-Way Bladeswitch
+Controls	1x volume, 1x tone
+Bridge / Tremolo	Bigsby B-16
+Hardware	Nickel / Chrome
+Strings thickness ex factory	.010 - .046
+Including	Hard case and accessories
+Special Features	Masterbuilt by Dale Wilson
+Weight	3,35 kg
+Country of Origin	USA
+Serial	CZ546583"
+    </string>
+    <string name="elektrik_gibson">
+        "Price	IDR 115.911.268
+You don't have to say anything about this guitar. One of the most iconic instruments ever and certainly in a league with Clapton's Blackie, Gilmours Black Strat or Pearly Gates.
+Gibson Custom Shop
+The Gibson Custom Shop was founded in 1993 with only five employees. Initially the purpose was to take care of individual orders, the endorser and special models. The Custom Shop's first spectacular action was the revision of the '59 and '60 Les Paul Flametop Reissues. A lot of changes were to be made, to make the reissue as authentic and close to the old originals as possible. Today around 80 experts are working at the Custom Shop, who cover all areas ranging from \"one-off\" instruments to limited runs and RnD. Serial number	6 8258
+Colour / Finish	Black over Gold
+Technology	Solid Body
+Body Shape	Single Cut
+Strings	6 string
+Neck construction	Set in neck
+Frets	22
+Scale Length	24,75\" (629 mm)
+Body Material	Mahogany
+Top	Maple
+Neck	Mahogany
+Neck Profile	1956 Les Paul
+Fretboard	Rosewood
+Fretboard radius	12\"
+Fretboard Inlays	Trapezoid inlays
+Pickup Configuration	H-S (1x Humbucker, 1x Single Coil)
+Neck Pickup	Gibson P90
+Bridge Pickup	Gibson Firebird Minihumbucker
+Pickup Selector Switch	3 way toggle
+Controls	2x volume, 2x tone
+Bridge / Tremolo	Bigsby B-6
+Hardware	Aged Nickel
+Strings thickness ex factory	.010 - .046
+Including	Hard case and accessories
+Special Features	Limited special model
+Weight	4,36 kg
+Country of Origin	USA
+Serial	6 8258"
+    </string>
+    <string name="elektrik_nik_huber_orca">
+        "Price	IDR 105.788.083
+An Orca '59 Superhollowbody (with hollowed maple top), nitro lacquered, with Brazilian rosewood fretboard, curly maple binding and selected maple top.
+The stuff that dreams are made of!
+Nik Huber Guitars was founded in 1996 by Nik Huber. Since then, the company has grown slowly but steadily and produces about 120 guitars a year. All handmade.
+Nik Huber, founder and managing director of Nik Huber Guitars, continues a family tradition of more than 100 years. The skill in the processing of wood was passed down to him. Today this legacy is continued in the form of exquisite guitars by Nikolaus Huber IV. More than a hundred years of accumulated experience and passing on from generation to generation makes the difference.
+Since their first participation in the Frankfurt Musikmesse 1997, Nik Huber Guitars have received a worldwide reputation as a manufacturer of high-class instruments.
+Serial number	5 2015
+Colour / Finish	Tobacco Sunburst
+Technology	Chambered Solid Body
+Body Shape	Single Cut
+Strings	6 string
+Neck construction	Set in neck
+Frets	22
+Scale Length	25\" (635 mm)
+Body Material	Mahogany
+Top	Maple
+Neck	Maple
+Fretboard	Rosewood
+Fretboard Inlays	Trapezoid inlays
+Pickup Configuration	H-H (2x Humbucker)
+Neck Pickup	Häussel '59 Humbucker
+Bridge Pickup	Häussel '59 Humbucker
+Pickup Selector Switch	3 way toggle
+Controls	2x volume, 2x tone
+Bridge / Tremolo	Tune-O-Matic
+Hardware	Aged Nickel
+Including	Hard case and accessories
+Weight	2,88 kg
+Serial	5 2015"
+    </string>
+    <string name="bass_fender_tony">
+        "Price	IDR 32.198.465
+Tony Franklin is a British rock musician, multi-instrumentalist, songwriter, singer and producer. He was also known as Fretless!! - bassist for bands The Firm and Blue Murder, but also worked with Eric Burdon, David Gilmour, Kate Bush, Whitesnake, Roy Harper, Donna Lewis, Banyan (Stephen Perkins), Glenn Hughes, Simon Phillips, Terry Bozzio, Gregg Bissonette, Robbie Krieger (The Doors), Pat Travers, Gary Hoey, Tony MacAlpine, Don Dokken, Kelly Keeling, Doug Aldrich, Warren DeMartini and many others.
+Body Shape	Precision bass
+Body Material	Alder
+Technology	Solid Body
+Colour / Finish	Black
+Neck construction	Bolt on neck
+Scale Length	34\" (864 mm)
+Neck	Maple
+Fretboard	Ebony
+Strings	4-string
+Strings thickness ex factory	.055 - .105
+Serial number	US19023356
+Neck Pickup	Tony Franklin American Split Single-Coil Precision Bass®
+Bridge Pickup	Tony Franklin Single-Coil Jazz Bass® with Hex Screw Pole Pieces and Ceramic Bar Magnets
+Hardware	Chrome
+Including	Hardcase
+Special Features	D-Tuner
+Weight	4,11 kg
+Country of Origin	USA
+Serial	US19023356"
+    </string>
+    <string name="bass_fender_custom">
+        "Price	IDR 86.921.419
+Fender Custom Shop
+The most successful Fender Custom Shop products are the instruments from the Time Machine Series. Here you can find replicas of the guitars and basses, that made Fender legendary in the 1950s, 1960s and 1970s. Depending on your taste, the instruments are optically aligned to their various vintage conditions. Relics look as if they had all the rigors of tour life subjected to them for years and accordingly show their many \"scars\". Closet Classics on the other hand represent instruments that have been treated more carefully and their age can be detected only because of paint cracks and minor flaws. NOS (New Old Stock) instruments are - if they were real - the dream of every collector. Like being untouched over the years still in original factory condition, so as new but also old.
+Most Custom Shop instruments are \"team built\", which means that the guitar is built by a small team of 5 specialists. Each of these teams is headed by a masterbuilder, one of those grandmasters of wood who spend the bigger part of their time building so-called \"masterbuilt\" instruments, where the masterbuilder and he alone does all the work from scratch.
+If you cannot find your dream Fender guitar in our range - no problem! Let the Custom Shop build it for you. This does not necessarily need to be more expensive than a regular custom shop instrument but will meet all your individual needs. Talk to us and we'll tell you what is possible…and for which price.
+Technology	Solid Body
+Colour / Finish	Sherwood Green Metallic
+Neck construction	Bolt on neck
+Scale	Long scale
+Scale Length	34\" (864 mm)
+Fretboard	Rosewood
+Strings	4-string
+Serial number	R103411
+Special Features	Masterbuilt by Greg Fessler
+Weight	3,82 kg
+Country of Origin	USA
+Serial	R103411"
+    </string>
+    <string name="bass_dingwall">
+        "Price	IDR 70.990.638
+Body Shape	Modern Double Cutaway
+Body Material	Swamp Ash
+Top	Spalted Maple
+Technology	Solid Body
+Colour / Finish	Indigo Burst
+Neck construction	Bolt on neck
+Scale	Multiscale
+Scale Length	Multiscale 33,25 - 37\" (845 -940 mm)
+Neck	Maple
+Fretboard	Wenge
+Frets	24
+Fretboard Inlays	Blue Pearloid Speedo Bars
+Strings	5-string
+Strings thickness ex factory	.045-.130
+Serial number	5967
+Pickup type	Humbucker
+Hardware	Black
+Including	Gigbag
+Weight	3,87 kg
+Country of Origin	Canada
+Serial	5967"
+    </string>
+    <string name="bass_franz">
+        "Price	IDR 63.097.442
+Franz Bassguitars Wega
+This small, but fine bass smithy is based in beautiful Upper Franconia, Germany. Starting as a traditional third generation carpenters workshop, owner Xaver Tremel one day held a bass in his hands and that was it. him. From then on he decided not only to build tables, chairs and benches for the surroundings like his grandfather Josef had done in the past, but also to get into the art of (bass) guitar building.
+Years later the results are remarkable: meticulously crafted individual items, handbuilt by master craftsmen. The wood used is predominantly regional, such as alder from the Black Forest or resin and oak from the Spessart, which, in addition to the beautiful and important aspect of the sustainability of raw materials, not only provides a beautiful local touch, but also fits perfectly into this particular bass construction and sound concept.
+The Merak series is the Upper Franconian interpretation of a lively 4-string with direct, bony tone and lots of attack. Paired with a beautiful neck, PJ-assembly and excellent workmanship, these instruments are a lot of fun.
+Body Shape	Modern Double Cutaway
+Body Material	Thermo Ash
+Top	european ash
+Technology	Solid Body
+Colour / Finish	Natural
+Neck construction	Set in neck
+Scale	Long scale
+Scale Length	34,5\" (876 mm)
+Neck	Maple
+Fretboard	Thermoahorn (Maple)
+Frets	24
+Strings	5-string
+Serial number	1513
+Pickup type	Soapbar
+Neck Pickup	Kloppmann
+Bridge Pickup	Kloppmann
+Electronics	2 band Equaliser
+Controls	1x volume, bass/treble, 1x blend
+Pickup Selector Switch	Blend
+Hardware	Black
+Including	Hardcase
+Weight	4,28 kg
+Country of Origin	Germany
+Serial	1513"
+    </string>
+    <string name="bass_esh_poseidon">
+        "Price	IDR 57.947.613
+Body Material	Swamp Ash
+Top	Figured Maple (Flame / Tiger / Curly Maple)
+Technology	Solid Body
+Colour / Finish	Lava Yellow
+Neck construction	Neck thru
+Scale	Long scale
+Scale Length	34\" (864 mm)
+Neck	Maple
+Fretboard	Ebony
+Frets	24
+Strings	5-string
+Serial number	18524
+Pickup type	Humbucker
+Neck Pickup	EMG 40DC
+Bridge Pickup	EMG 40DC
+Controls	1x Volume, 1x Tone, Seriell/Parallel Switch, Esh-Tronic
+Hardware	Gold
+Including	Hardcase
+Special Features	Eshtronic: Studio-Mode, selected PU Tone and Volume Controls, selected PU, Volume Controls and Piezo, Piezo only and Tone and Volume Control
+Weight	4,38 kg
+Country of Origin	Czech Republic
+Serial	18524"
+    </string>
+</resources>
